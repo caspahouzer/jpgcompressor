@@ -224,6 +224,7 @@
 				GCC_PREFIX_HEADER = ComSideshowcoderJpgcompressor_Prefix.pch;
 				INSTALL_PATH = /usr/local/lib;
 				PRODUCT_NAME = ComSideshowcoderJpgcompressor;
+				VALID_ARCHS = "armv7 i386 x86_64 arm64";
 			};
 			name = Debug;
 		};
@@ -238,6 +239,7 @@
 				GCC_PREFIX_HEADER = ComSideshowcoderJpgcompressor_Prefix.pch;
 				INSTALL_PATH = /usr/local/lib;
 				PRODUCT_NAME = ComSideshowcoderJpgcompressor;
+				VALID_ARCHS = "armv7 i386 x86_64 arm64";
 			};
 			name = Release;
 		};
@@ -254,6 +256,7 @@
 				OTHER_LDFLAGS = "";
 				PREBINDING = NO;
 				SDKROOT = iphoneos;
+				VALID_ARCHS = "armv7 i386 x86_64 arm64";
 			};
 			name = Debug;
 		};
@@ -268,6 +271,7 @@
 				OTHER_LDFLAGS = "";
 				PREBINDING = NO;
 				SDKROOT = iphoneos;
+				VALID_ARCHS = "armv7 i386 x86_64 arm64";
 			};
 			name = Release;
 		};
